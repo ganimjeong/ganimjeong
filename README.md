@@ -26,11 +26,10 @@ Personalize later:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## GitHub Stats
+## GitHub
 
-![ganimjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganimjeong&show_icons=true&theme=transparent&hide_border=true)
-
-![Top languages used by ganimjeong](https://github-readme-stats.vercel.app/api/top-langs/?username=ganimjeong&layout=compact&theme=transparent&hide_border=true)
+- Profile: [github.com/ganimjeong](https://github.com/ganimjeong)
+- Repositories: [github.com/ganimjeong?tab=repositories](https://github.com/ganimjeong?tab=repositories)
 
 ## Contact
 
