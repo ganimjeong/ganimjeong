@@ -46,7 +46,12 @@
 
 **Design / Other:** Figma, Photoshop, Illustrator, Premiere Pro, Final Cut Pro, CapCut, VLLO, bananaStudio, Vrew, HyperFrames
 
-## GitHub Activity
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ganimjeong&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="ganimjeong's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganimjeong&layout=compact&theme=transparent&hide_border=true" alt="Top languages used by ganimjeong" height="165" />
+</p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=ganimjeong&theme=transparent&hide_border=true" alt="ganimjeong's GitHub streak" />
