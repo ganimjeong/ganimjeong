@@ -49,8 +49,10 @@
 ## GitHub Stats
 
 <p>
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=ganimjeong&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="ganimjeong's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganimjeong&layout=compact&theme=transparent&hide_border=true" alt="Top languages used by ganimjeong" height="165" />
+  -->
 </p>
 
 <p>
