@@ -78,7 +78,7 @@
   <a href="mailto:ganimjeong@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Replace the href="#" placeholders below with your real URLs when ready. -->
+  <!-- Replace the href="#" placeholders below with your real URLs when ready.
   <a href="#">
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Blog" />
   </a>
@@ -88,6 +88,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+  -->
 </p>
 
 ---
