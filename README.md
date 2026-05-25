@@ -72,7 +72,7 @@
   <a href="https://github.com/ganimjeong?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <a href="https://ganimjeong.github.io/my-resume/resume/ko">
+  <a href="https://ganimjeong.github.io/my-resume/">
     <img src="https://img.shields.io/badge/Resume-2F81F7?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:ganimjeong@gmail.com">
