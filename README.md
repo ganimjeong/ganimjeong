@@ -59,7 +59,7 @@
   -->
 </p>
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ganimjeong&theme=transparent&hide_border=true" alt="ganimjeong's GitHub streak" />
 </p>
 
