@@ -48,6 +48,10 @@
 
 ## GitHub Stats
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile" />
+</p>
+
 <p>
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=ganimjeong&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="ganimjeong's GitHub stats" height="165" />
