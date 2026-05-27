@@ -64,7 +64,9 @@
 </p>
 
 <p>
+  <!--
   <img src="https://github-profile-trophy.vercel.app/?username=ganimjeong&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="ganimjeong's GitHub trophies" />
+  -->
 </p>
 
 ## Links
