@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ajin Jeong</h1>
+<p align="center">
+  <img src="./assets/header.png" alt="hey, I'm AJIN" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=560&lines=Full-stack+developer;TypeScript+%2B+React+%2B+Python;Building+AI-powered+automation" alt="Typing SVG" />
@@ -49,23 +51,21 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile" />
-</p>
-
-<p>
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=ganimjeong&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="ganimjeong's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganimjeong&layout=compact&theme=transparent&hide_border=true" alt="Top languages used by ganimjeong" height="165" />
-  -->
+  <img src="./profile-3d-contrib/profile-dark.svg" alt="3D contribution profile" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ganimjeong&theme=transparent&hide_border=true" alt="ganimjeong's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganimjeong&show_icons=true&hide_border=true&count_private=true&bg_color=212930&title_color=d1d7e0&text_color=c9d1d9&icon_color=79c0ff&ring_color=79c0ff" alt="ganimjeong's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganimjeong&layout=compact&hide_border=true&bg_color=212930&title_color=d1d7e0&text_color=c9d1d9" alt="Top languages used by ganimjeong" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ganimjeong&hide_border=true&background=212930&border=212930&stroke=39424b&ring=79c0ff&fire=79c0ff&currStreakNum=d1d7e0&sideNums=d1d7e0&currStreakLabel=79c0ff&sideLabels=c9d1d9&dates=8b949e" alt="ganimjeong's GitHub streak" />
 </p>
 
 <p>
   <!--
-  <img src="https://github-profile-trophy.vercel.app/?username=ganimjeong&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="ganimjeong's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ganimjeong&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" alt="ganimjeong's GitHub trophies" />
   -->
 </p>
 
@@ -101,4 +101,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ganimjeong&style=flat-square&color=blue" alt="Profile views for ganimjeong" />
+</p>
+
+<p align="center">
+  <img src="./assets/footer.png" alt="" width="100%" />
 </p>
