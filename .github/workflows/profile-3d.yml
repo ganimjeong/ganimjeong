@@ -19,6 +19,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-contrib-settings.json
+      - name: Update OSS contribution card stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update-oss-card.py
       - name: Commit & Push
         run: |
           git config user.name github-actions
