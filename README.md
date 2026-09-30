@@ -48,6 +48,26 @@
 
 **Design / Other:** Figma, Photoshop, Illustrator, Premiere Pro, Final Cut Pro, CapCut, VLLO, bananaStudio, Vrew, HyperFrames
 
+## Open Source
+
+<p align="center">
+  <a href="https://github.com/ai-for-developers/awesome-ai-coding-tools/pull/365">
+    <img src="./assets/oss-awesome-ai-coding-tools.svg" alt="Contributor to ai-for-developers/awesome-ai-coding-tools (PR #365 merged)" width="680" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ai-for-developers/awesome-ai-coding-tools">
+    <img src="https://img.shields.io/github/stars/ai-for-developers/awesome-ai-coding-tools?style=flat-square&logo=github&logoColor=d1d7e0&label=stars&labelColor=212930&color=e3b341" alt="Stars" />
+  </a>
+  <a href="https://github.com/ai-for-developers/awesome-ai-coding-tools/forks">
+    <img src="https://img.shields.io/github/forks/ai-for-developers/awesome-ai-coding-tools?style=flat-square&logo=github&logoColor=d1d7e0&label=forks&labelColor=212930&color=79c0ff" alt="Forks" />
+  </a>
+  <a href="https://github.com/ai-for-developers/awesome-ai-coding-tools/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/ai-for-developers/awesome-ai-coding-tools?style=flat-square&logo=github&logoColor=d1d7e0&label=contributors&labelColor=212930&color=a371f7" alt="Contributors" />
+  </a>
+</p>
+
 ## GitHub Stats
 
 <p align="center">

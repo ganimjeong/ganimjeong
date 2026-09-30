@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="168" viewBox="0 0 680 168" role="img" aria-label="Contributor to ai-for-developers/awesome-ai-coding-tools">
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .label { font-size: 11px; font-weight: 600; letter-spacing: 1.6px; fill: #79c0ff; }
+    .owner { font-size: 16px; font-weight: 500; fill: #8b949e; }
+    .repo  { font-size: 22px; font-weight: 700; fill: #d1d7e0; }
+    .desc  { font-size: 13px; fill: #8b949e; }
+    .pill  { font-size: 12px; font-weight: 600; fill: #d2b8ff; }
+    .pr    { font-size: 12px; fill: #c9d1d9; }
+    .star  { fill: #e3b341; }
+  </style>
+  <rect x="0.5" y="0.5" width="679" height="167" rx="12" fill="#212930" stroke="#39424b"/>
+
+  <text class="t label" x="28" y="36">OPEN SOURCE · CONTRIBUTOR</text>
+
+  <!-- book/awesome icon -->
+  <g transform="translate(28 52)" fill="#d1d7e0">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5c.966 0 1.75.784 1.75 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25ZM8 3.5l1.24 2.51 2.76.4-2 1.95.47 2.75L8 9.81l-2.47 1.3.47-2.75-2-1.95 2.76-.4Z"/>
+  </g>
+  <text class="t" x="52" y="66"><tspan class="owner">ai-for-developers /</tspan> <tspan class="repo">awesome-ai-coding-tools</tspan></text>
+  <text class="t desc" x="28" y="90">A curated list of AI-powered coding tools · 2.1k+ stars · 340+ contributors</text>
+
+  <!-- merged pill -->
+  <g transform="translate(28 108)">
+    <rect x="0" y="0" width="108" height="26" rx="13" fill="#3b2a5b" stroke="#6e40c9" opacity="0.95"/>
+    <g transform="translate(11 6)" fill="#d2b8ff">
+      <path d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.5-4.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z"/>
+    </g>
+    <text class="t pill" x="32" y="17.5">Merged  #365</text>
+  </g>
+  <text class="t pr" x="148" y="125.5">Add Harness for Codex</text>
+
+  <!-- right side: star burst badge -->
+  <g>
+    <circle cx="640" cy="84" r="30" fill="#2a333c" stroke="#39424b"/>
+    <g transform="translate(628 72) scale(1.5)" class="star">
+      <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
+    </g>
+  </g>
+</svg>
