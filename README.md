@@ -55,8 +55,11 @@
 </p>
 
 <p align="center">
+  <!-- github-readme-stats 공용 인스턴스(vercel.app)가 DEPLOYMENT_PAUSED(503) 상태라 임시 주석. 자체 배포 후 URL만 바꾸면 됨. -->
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=ganimjeong&show_icons=true&hide_border=true&count_private=true&bg_color=212930&title_color=d1d7e0&text_color=c9d1d9&icon_color=79c0ff&ring_color=79c0ff" alt="ganimjeong's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganimjeong&layout=compact&hide_border=true&bg_color=212930&title_color=d1d7e0&text_color=c9d1d9" alt="Top languages used by ganimjeong" height="165" />
+  -->
 </p>
 
 <p align="center">
