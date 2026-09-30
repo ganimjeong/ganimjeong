@@ -22,13 +22,13 @@
 
   <!-- merged pill -->
   <g transform="translate(28 108)">
-    <rect x="0" y="0" width="108" height="26" rx="13" fill="#3b2a5b" stroke="#6e40c9" opacity="0.95"/>
+    <rect x="0" y="0" width="132" height="26" rx="13" fill="#3b2a5b" stroke="#6e40c9" opacity="0.95"/>
     <g transform="translate(11 6)" fill="#d2b8ff">
       <path d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.5-4.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z"/>
     </g>
-    <text class="t pill" x="32" y="17.5">Merged  #365</text>
+    <text class="t pill" x="32" y="17.5" textLength="86" lengthAdjust="spacingAndGlyphs">Merged #365</text>
   </g>
-  <text class="t pr" x="148" y="125.5">Add Harness for Codex</text>
+  <text class="t pr" x="172" y="125.5">Add Harness for Codex</text>
 
   <!-- right side: star burst badge -->
   <g>
