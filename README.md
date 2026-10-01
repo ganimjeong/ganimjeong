@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" alt="hey, I'm AJIN" width="100%" />
+  <img src="./assets/header-v2.png" alt="hey, I'm AJIN" width="100%" />
 </p>
 
 <p align="center">
@@ -115,5 +115,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/footer.png" alt="" width="100%" />
+  <img src="./assets/footer-v2.png" alt="" width="100%" />
 </p>
