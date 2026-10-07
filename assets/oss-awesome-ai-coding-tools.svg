@@ -37,7 +37,7 @@
   <g text-anchor="middle">
     <text class="t num num-stars" x="430" y="122" id="stat-stars">2.1k</text>
     <text class="t stat" x="430" y="140">STARS</text>
-    <text class="t num num-forks" x="520" y="122" id="stat-forks">793</text>
+    <text class="t num num-forks" x="520" y="122" id="stat-forks">800</text>
     <text class="t stat" x="520" y="140">FORKS</text>
     <text class="t num num-contrib" x="614" y="122" id="stat-contributors">345</text>
     <text class="t stat" x="614" y="140">CONTRIBUTORS</text>
