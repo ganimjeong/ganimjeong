@@ -35,7 +35,7 @@
   <!-- right side: live repo stats (updated daily by workflow) -->
   <line x1="372" y1="100" x2="372" y2="142" stroke="#39424b"/>
   <g text-anchor="middle">
-    <text class="t num num-stars" x="430" y="122" id="stat-stars">2.2k</text>
+    <text class="t num num-stars" x="430" y="122" id="stat-stars">2.3k</text>
     <text class="t stat" x="430" y="140">STARS</text>
     <text class="t num num-forks" x="520" y="122" id="stat-forks">1.1k</text>
     <text class="t stat" x="520" y="140">FORKS</text>
